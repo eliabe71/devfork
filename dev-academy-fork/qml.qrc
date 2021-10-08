@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>singup.qml</file>
+        <file>login.qml</file>
+        <file>home.qml</file>
+        <file>MyToolbar.qml</file>
+        <file>Card.qml</file>
+        <file>addnote.qml</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>iconinit.png</file>
+        <file>cadrasto.png</file>
+        <file>return.png</file>
+        <file>magnify-close.png</file>
+        <file>magnify.png</file>
+        <file>view-grid-rows.png</file>
+        <file>view-grid-outline.png</file>
+        <file>plusbutton.png</file>
+         <file>save.png</file>
+         <file>pallete.png</file>
+         <file>trash.png</file>
+    </qresource>
+</RCC>
